@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213562749007",
+    "firebase_url": "https://isoccernews.firebaseio.com",
+    "project_id": "isoccernews",
+    "storage_bucket": "isoccernews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213562749007:android:0d39e7ce99664fb8",
+        "android_client_info": {
+          "package_name": "com.xapinky.i_soccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213562749007-frj3l5oo0d057o0uqgetm4uaisoob79r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKY5uEc9zWTL3X3f3Zzp2RFTCGR-aL9io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213562749007-frj3l5oo0d057o0uqgetm4uaisoob79r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
